@@ -1,8 +1,8 @@
 <?php
-$host = "smarjanovic-server.mysql.database.azure.com";
-$user = "ekgwxcxhjp";
-$pwd = "5Q3LJ5HOBLOKW704$";
-$db = "smarjanovic-database";
+$host = "s1marjanovic-server.mysql.database.azure.com";
+$user = "ybipyeftul";
+$pwd = "E24Q3VFDRQ5DS07M$";
+$db = "s1marjanovic-database";
 // $host = "127.0.0.1:52932"; // $user = "azure";
 // $pwd = "6#vWHD_$";
 // $db = "localdb";

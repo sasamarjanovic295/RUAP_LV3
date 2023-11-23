@@ -1,10 +1,10 @@
 <?php
 // DB connection info
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved earlier from the Azure Portal. $host = "value of Data Source";
-$host = "smarjanovic-server.mysql.database.azure.com";
-$user = "ekgwxcxhjp";
-$pwd = "5Q3LJ5HOBLOKW704$";
-$db = "smarjanovic-database";
+$host = "s1marjanovic-server.mysql.database.azure.com";
+$user = "ybipyeftul";
+$pwd = "E24Q3VFDRQ5DS07M$";
+$db = "s1marjanovic-database";
 // Connect to database.
 $conn = mysqli_connect($host, $user, $pwd, $db);
 
